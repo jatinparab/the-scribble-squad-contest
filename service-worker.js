@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-scribble-squad-contest/precache-manifest.46f702e49c88d70368627a9ad5a8345f.js"
+  "/the-scribble-squad-contest/precache-manifest.bb210989e68063f00d51530788fdc56a.js"
 );
 
 self.addEventListener('message', (event) => {
