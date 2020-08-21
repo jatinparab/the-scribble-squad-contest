@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/the-scribble-squad-contest/static/css/main.f54b5349.chunk.css",
-    "main.js": "/the-scribble-squad-contest/static/js/main.4d040630.chunk.js",
-    "main.js.map": "/the-scribble-squad-contest/static/js/main.4d040630.chunk.js.map",
+    "main.js": "/the-scribble-squad-contest/static/js/main.acd3e6ea.chunk.js",
+    "main.js.map": "/the-scribble-squad-contest/static/js/main.acd3e6ea.chunk.js.map",
     "runtime-main.js": "/the-scribble-squad-contest/static/js/runtime-main.d95d21aa.js",
     "runtime-main.js.map": "/the-scribble-squad-contest/static/js/runtime-main.d95d21aa.js.map",
     "static/css/2.260df227.chunk.css": "/the-scribble-squad-contest/static/css/2.260df227.chunk.css",
-    "static/js/2.e8c62985.chunk.js": "/the-scribble-squad-contest/static/js/2.e8c62985.chunk.js",
-    "static/js/2.e8c62985.chunk.js.map": "/the-scribble-squad-contest/static/js/2.e8c62985.chunk.js.map",
+    "static/js/2.c049f319.chunk.js": "/the-scribble-squad-contest/static/js/2.c049f319.chunk.js",
+    "static/js/2.c049f319.chunk.js.map": "/the-scribble-squad-contest/static/js/2.c049f319.chunk.js.map",
     "index.html": "/the-scribble-squad-contest/index.html",
-    "precache-manifest.bb210989e68063f00d51530788fdc56a.js": "/the-scribble-squad-contest/precache-manifest.bb210989e68063f00d51530788fdc56a.js",
+    "precache-manifest.325d391bde435b4258c8c59e0d993af7.js": "/the-scribble-squad-contest/precache-manifest.325d391bde435b4258c8c59e0d993af7.js",
     "service-worker.js": "/the-scribble-squad-contest/service-worker.js",
     "static/css/2.260df227.chunk.css.map": "/the-scribble-squad-contest/static/css/2.260df227.chunk.css.map",
     "static/css/main.f54b5349.chunk.css.map": "/the-scribble-squad-contest/static/css/main.f54b5349.chunk.css.map",
-    "static/js/2.e8c62985.chunk.js.LICENSE.txt": "/the-scribble-squad-contest/static/js/2.e8c62985.chunk.js.LICENSE.txt",
+    "static/js/2.c049f319.chunk.js.LICENSE.txt": "/the-scribble-squad-contest/static/js/2.c049f319.chunk.js.LICENSE.txt",
     "static/media/logo.jpeg": "/the-scribble-squad-contest/static/media/logo.17b572d4.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d95d21aa.js",
     "static/css/2.260df227.chunk.css",
-    "static/js/2.e8c62985.chunk.js",
+    "static/js/2.c049f319.chunk.js",
     "static/css/main.f54b5349.chunk.css",
-    "static/js/main.4d040630.chunk.js"
+    "static/js/main.acd3e6ea.chunk.js"
   ]
 }
