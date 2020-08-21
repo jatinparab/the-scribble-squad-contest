@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/the-scribble-squad-contest/static/css/main.f54b5349.chunk.css",
-    "main.js": "/the-scribble-squad-contest/static/js/main.acd3e6ea.chunk.js",
-    "main.js.map": "/the-scribble-squad-contest/static/js/main.acd3e6ea.chunk.js.map",
+    "main.js": "/the-scribble-squad-contest/static/js/main.32dc9b3f.chunk.js",
+    "main.js.map": "/the-scribble-squad-contest/static/js/main.32dc9b3f.chunk.js.map",
     "runtime-main.js": "/the-scribble-squad-contest/static/js/runtime-main.d95d21aa.js",
     "runtime-main.js.map": "/the-scribble-squad-contest/static/js/runtime-main.d95d21aa.js.map",
     "static/css/2.260df227.chunk.css": "/the-scribble-squad-contest/static/css/2.260df227.chunk.css",
     "static/js/2.c049f319.chunk.js": "/the-scribble-squad-contest/static/js/2.c049f319.chunk.js",
     "static/js/2.c049f319.chunk.js.map": "/the-scribble-squad-contest/static/js/2.c049f319.chunk.js.map",
     "index.html": "/the-scribble-squad-contest/index.html",
-    "precache-manifest.325d391bde435b4258c8c59e0d993af7.js": "/the-scribble-squad-contest/precache-manifest.325d391bde435b4258c8c59e0d993af7.js",
+    "precache-manifest.66c6d1e9cf2c71f2159e8a799595ca64.js": "/the-scribble-squad-contest/precache-manifest.66c6d1e9cf2c71f2159e8a799595ca64.js",
     "service-worker.js": "/the-scribble-squad-contest/service-worker.js",
     "static/css/2.260df227.chunk.css.map": "/the-scribble-squad-contest/static/css/2.260df227.chunk.css.map",
     "static/css/main.f54b5349.chunk.css.map": "/the-scribble-squad-contest/static/css/main.f54b5349.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.260df227.chunk.css",
     "static/js/2.c049f319.chunk.js",
     "static/css/main.f54b5349.chunk.css",
-    "static/js/main.acd3e6ea.chunk.js"
+    "static/js/main.32dc9b3f.chunk.js"
   ]
 }
