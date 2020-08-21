@@ -49,13 +49,13 @@ export const Submissions = () => {
                   justify="space-between"
                   alignItems="center"
                 >
-                  <div
+                  <Container
                     dangerouslySetInnerHTML={{
                       __html: convertBlockToHTML(
                         convertBlocks(data[phoneNumber].blocks)
                       ),
                     }}
-                  ></div>
+                  ></Container>
                 </Grid>
               </Box>
             </Card>
