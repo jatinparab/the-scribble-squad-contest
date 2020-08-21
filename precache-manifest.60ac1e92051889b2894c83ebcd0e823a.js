@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baa73286161d4221a4bbf5f34c083e68",
+    "revision": "e6b02487cc894443fb1057666563734a",
     "url": "/the-scribble-squad-contest/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-scribble-squad-contest/static/css/2.260df227.chunk.css"
   },
   {
-    "revision": "156f18581b0390b8f911",
+    "revision": "8fea95b05ac212a9a932",
     "url": "/the-scribble-squad-contest/static/css/main.f54b5349.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-scribble-squad-contest/static/js/2.742ade60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "156f18581b0390b8f911",
-    "url": "/the-scribble-squad-contest/static/js/main.bf0daf4c.chunk.js"
+    "revision": "8fea95b05ac212a9a932",
+    "url": "/the-scribble-squad-contest/static/js/main.f34b31ba.chunk.js"
   },
   {
     "revision": "02243b1ef80410e1d075",
